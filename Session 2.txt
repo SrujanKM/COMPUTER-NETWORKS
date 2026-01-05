@@ -1,0 +1,102 @@
+Q1.
+
+Which of the following is a key characteristic of a Peer-to-Peer network?
+
+A. Centralized administration
+B. Request–response model
+C. All peers are equal
+D. Highly scalable architecture
+
+Q2.
+
+Which network model follows a request–response mechanism?
+
+A. Peer-to-Peer Network
+B. Client–Server Network
+C. Local Area Network
+D. Metropolitan Area Network
+
+Q3.
+
+Which of the following is NOT a component of a computer network?
+
+A. Nodes
+B. Media
+C. Services
+D. Operating System
+
+Q4.
+
+Which of the following devices is classified as an end node?
+
+A. Switch
+B. Router
+C. Security Camera
+D. Repeater
+
+Q5.
+
+Which of the following is an intermediary network device?
+
+A. Mobile phone
+B. Printer
+C. Tablet
+D. Wireless Access Point
+
+Q6.
+
+Wired transmission media are also known as:
+
+A. Unguided media
+B. Free-space media
+C. Guided media
+D. Electromagnetic media
+
+Q7.
+
+Which transmission medium carries data in the form of light signals?
+
+A. Coaxial cable
+B. Ethernet cable
+C. Fiber optic cable
+D. USB cable
+
+Q8.
+
+Which wireless medium is commonly used in Bluetooth and Wi-Fi communication?
+
+A. Infrared waves
+B. Microwaves
+C. Radio waves
+D. Satellite waves
+
+Q9.
+
+A computer network covering a city or metropolitan area is called:
+
+A. LAN
+B. PAN
+C. MAN
+D. WAN
+
+Q10.
+
+Which of the following best describes Cloud Computing?
+
+A. Local storage using external devices
+B. On-demand availability of computing resources
+C. Peer-to-peer data sharing
+D. Wired network communication only
+
+Answer Key
+Question	Correct Answer
+Q1	C
+Q2	B
+Q3	D
+Q4	C
+Q5	D
+Q6	C
+Q7	C
+Q8	C
+Q9	C
+Q10	B
