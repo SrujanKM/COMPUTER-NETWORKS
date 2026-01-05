@@ -1,0 +1,45 @@
+Q1.
+A computer network is best defined as:
+A. A group of computers connected only through wired media
+B. A set of nodes connected by communication links
+C. A collection of servers connected to the Internet
+D. A system that allows only data transmission
+✅ Correct Answer: B
+📌 Explanation:
+A computer network consists of nodes connected by communication links, which may be wired or wireless.
+Q2.
+Which of the following is classified as an intermediary node?
+A. Printer
+B. Tablet
+C. Router
+D. Mobile phone
+✅ Correct Answer: C
+📌 Explanation:
+Routers, switches, modems, and cell towers act as intermediary nodes that forward data between end devices.
+Q3.
+The ability of a network to continue functioning even when failures occur is known as:
+A. Scalability
+B. Security
+C. Quality of Service
+D. Fault Tolerance
+✅ Correct Answer: D
+📌 Explanation:
+Fault tolerance ensures no loss of service despite device or link failures.
+Q4.
+Which type of data flow allows communication in both directions, but not simultaneously?
+A. Simplex
+B. Half Duplex
+C. Full Duplex
+D. Multicast
+✅ Correct Answer: B
+📌 Explanation:
+In half-duplex, a device can either send or receive at a time (e.g., walkie-talkies).
+Q5.
+Which of the following is NOT defined by network communication protocols?
+A. Message encoding
+B. Message size
+C. Message delivery options
+D. Network topology
+✅ Correct Answer: D
+📌 Explanation:
+Protocols define how communication happens, not the physical or logical topology of the network.
